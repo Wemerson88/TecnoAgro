@@ -16,5 +16,5 @@ Este é o site oficial do **TecnoAgro**, um projeto que une **tecnologia e agron
 - CSS3 (com Flexbox)
 - Semântica Web
 
-## 📁 Estrutura de pastas
+
 
