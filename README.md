@@ -1,6 +1,6 @@
-# 🌱 TecnoAgro - Landing Page
+# 🌱 AgroGest - Landing Page
 
-Este é o site oficial do **TecnoAgro**, um projeto que une **tecnologia e agronegócio**. A landing page apresenta informações sobre produtos, soluções inovadoras, categorias e tags voltadas para o universo agro tecnológico.
+Este é o site oficial do **AgroGest**, um projeto que une **tecnologia e agronegócio**. A landing page apresenta informações sobre produtos, soluções inovadoras, categorias e tags voltadas para o universo agro tecnológico.
 
 ## 🚀 Funcionalidades
 
