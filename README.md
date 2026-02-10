@@ -13,7 +13,7 @@ Este é o site oficial do **AgroGest**, um projeto que une **tecnologia e agrone
 ## 🧠 Tecnologias usadas
 
 - HTML5
-- CSS3 (com Flexbox)
+- CSS3 
 - Semântica Web
 
 
